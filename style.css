@@ -8,10 +8,26 @@
 #foraging {
   display: flex;
   flex-direction: column;
-  width: 10%;
+  width: 171px;
   margin: 10px;
+  box-shadow: 11px 9px 36px #ffc8c9;
+  padding: 20px;
+  border-radius: 20px;
 }
 
 h1 {
   margin: 10px;
+}
+
+#submit {
+  margin-top: 10px;
+  background-color: #ffc8c9;
+}
+
+label {
+  margin: 5px 0;
+}
+
+#product {
+  background-color: #ffc8c9;
 }
